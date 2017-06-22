@@ -1,0 +1,6 @@
+projectKey=org.sonarqube.OpenLegislation1.6.1
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube.OpenLegislation1.6.1
+ceTaskId=AVyTm8tuJ746nmlvjv8G
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVyTm8tuJ746nmlvjv8G
